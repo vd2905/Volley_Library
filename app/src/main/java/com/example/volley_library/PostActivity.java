@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -21,8 +20,6 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import MyAdapter.PhotoAdapter;
-import MyAdapter.PhotoModel;
 import MyAdapter.PostAdapter;
 import MyAdapter.PostModel;
 
